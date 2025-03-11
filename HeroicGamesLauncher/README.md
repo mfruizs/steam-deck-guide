@@ -1,0 +1,1 @@
+# Heroic Launcher Installation Guide
