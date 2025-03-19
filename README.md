@@ -14,7 +14,9 @@ Repository with the steps to follow to customize our steam deck
 
 ## Commands
 
-| Action                 | Command                                      |
-|------------------------|----------------------------------------------|
-| To Open > Desktop view | press (STEAM) button and select Desktop view |
-| To Open > Keyboard     | press (STEAM) button + X                     |
+| Action                                   | Command                                                                               |
+|------------------------------------------|---------------------------------------------------------------------------------------|
+| To Open > Desktop view                   | press (STEAM) button and select Desktop view                                          |
+| To Open > Keyboard                       | press (STEAM) button + X                                                              |
+| To Open > Bootloader disk                | hold down (-) volume down key + press power button (until boot splash screen appears) |
+| To Open > Bootloader disk (more options) | hold down (+) volume up key + press power button (until boot splash screen appears)   | 
