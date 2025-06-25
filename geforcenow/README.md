@@ -1,4 +1,4 @@
-# Gforce Now Guide
+# GeForce Now Guide
 
 ### Official video installation guide
 [![Install Gforce Now](https://img.youtube.com/vi/5hhscoRV9Ew/mqdefault.jpg)](https://www.youtube.com/watch?v=FEa2diI2qgA)
