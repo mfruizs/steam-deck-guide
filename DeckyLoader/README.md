@@ -11,7 +11,7 @@
 
 ## How to open
 
-* On **original view**
+* On **Game mode view**
 
 1. Click on [ ... ] Steam Deck button
 2. Select Decky 🔌 on menu
