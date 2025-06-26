@@ -8,5 +8,5 @@
 * On **desktop view**, use your web browser
 
 1. Go to [gfn.link/download](https://gfn.link/download) or [https://www.nvidia.com/es-es/geforce-now/download/](https://www.nvidia.com/es-es/geforce-now/download/)
-2. Click on Download **Start with Steam Deck** button
+2. Click on **Start with Steam Deck** Download button
 3. Go to **Game mode view**
