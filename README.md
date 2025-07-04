@@ -12,7 +12,6 @@ Repository with the steps to follow to customize our steam deck
 | [GeForce Now](https://www.nvidia.com/es-es/geforce-now/)                              | GeForce NOW is NVIDIA's cloud gaming service that allows users to stream and play games on various devices like laptops, desktops, Macs, TVs, and mobile devices. | [➡️](geforcenow/README.md)           |
 
 
-~~~~
 ## Commands
 
 | Action                                   | Command                                                                               |
